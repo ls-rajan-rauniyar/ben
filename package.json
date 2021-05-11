@@ -18,7 +18,7 @@
     "emoji-js": "^3.4.1",
     "flux-standard-action": "^2.0.3",
     "history": "^4.7.2",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "qs": "^6.6.0",
     "react": "^16.8.1",
     "react-qml": "^0.4.5",
